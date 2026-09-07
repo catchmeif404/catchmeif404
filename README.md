@@ -13,7 +13,7 @@ building things nobody asked for.
 | | |
 |---|---|
 | 🧮 | **[aws-cost-calculator](https://github.com/catchmeif404/aws-cost-calculator)** — Guess less. AWS monthly cost estimator with a deterministic cost engine and rule-based optimization tips. |
-| 🎁 | **[devwrapped](https://github.com/catchmeif404/devwrapped)** — Your GitHub year, wrapped. Coding patterns, stack, and developer type from public activity. |
+| 🎁 | **[DevDNA](https://github.com/catchmeif404/DevDNA)** — Your GitHub year, wrapped. Coding patterns, stack, and developer type from public activity. |
 | ⏳ | **???** — coming soon. |
 
 ## Log
