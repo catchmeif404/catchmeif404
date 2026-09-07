@@ -4,8 +4,6 @@
 
 building things nobody asked for.
 
-`AWS` · `Backend` · `AI`
-
 </div>
 
 <br>
