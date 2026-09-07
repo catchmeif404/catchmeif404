@@ -26,7 +26,7 @@ Nothing logged yet. Check back.
 
 You found the profile.<br>You didn't find me.
 
-[catchmeif404.com](https://catchmeif404.com) · [X](https://x.com/catchmeif404)
+[catchmeif404.com](https://catchmeif404.com) · [X](https://x.com/catchmeif404) · [Threads](https://www.threads.com/@catchmeif404)
 
 **Contact:** open an issue on a project, or wait for it.
 
