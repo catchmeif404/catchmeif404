@@ -16,6 +16,8 @@ building things nobody asked for.
 | 🎁 | **[DevDNA](https://github.com/catchmeif404/DevDNA)** — Your GitHub year, wrapped. Coding patterns, stack, and developer type from public activity. |
 | ⏳ | **???** — coming soon. |
 
+[![DevDNA](https://devdna-production-1d53.up.railway.app/api/badge/catchmeif404.svg)](https://devdna-frontend.99kimst.workers.dev/dev/catchmeif404)
+
 ## Log
 
 Nothing logged yet. Check back.
