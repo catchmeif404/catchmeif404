@@ -11,7 +11,7 @@ index for the catchmeif404 business name (상호), not a product application.
 - Plain product language, English + Korean. The anonymous case-file persona is retired (owner decision 2026-11-11).
 - Project links and public status must match the actual repositories and deployed surfaces.
 - Do not add the owner's name, address, employer, or personal accounts unless the owner asks.
-- Keep the closing identity line and links consistent with the public brand.
+- Keep the closing links (site, X, Threads, contact) consistent with the public brand.
 
 ## Verification
 
